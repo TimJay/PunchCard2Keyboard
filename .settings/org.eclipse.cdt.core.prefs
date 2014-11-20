@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.release.1313718493/PATH/delimiter=\:
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.release.1313718493/PATH/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.release.1313718493/PATH/value=${TEENSYDUINO_ROOT}${DirectoryDelimiter}hardware${DirectoryDelimiter}tools${DirectoryDelimiter}arm-none-eabi${DirectoryDelimiter}bin${DirectoryDelimiter}
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.release.1313718493/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.release.1313718493/appendContributed=true
